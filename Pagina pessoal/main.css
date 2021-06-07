@@ -1,0 +1,28 @@
+body {
+    max-width:auto;
+    max-height:auto;
+    width: auto;
+    max-width: auto;
+  
+        background: url(f3.jpg) ;
+        color: blanchedalmond;
+}   
+main{
+    padding: 1px 250px;
+    margin-top: 30px;
+    margin-right: 200px ;
+    margin-left: 200px;
+    border-radius: 145px;
+    background:#0000007a;
+    text-align: center;
+
+    }
+a:link{
+    color:blanchedalmond;
+    text-decoration: none;
+    
+}
+a:hover{
+    color:rgb(255, 255, 255);
+    text-decoration:none
+}
